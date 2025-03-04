@@ -3,7 +3,7 @@ TERMS OF SERVICE
 
 **
 
-**Last updated** **December 11, 2024**
+**Last updated** **March 4, 2025**
 
   
 
@@ -24,7 +24,7 @@ We operate the mobile application Dawg (the "**App**"), as well as any other rel
 
   
 
-Dawg is an AI-powered calorie tracker designed to help Users estimate the nutritional content of their meals by uploading pictures of food. The App provides calorie estimates and other nutritional information based on AI analysis. Important Note: Dawg is not a substitute for professional medical advice, diagnosis, or treatment.
+Dawg is a self-improvement app designed to help people improve their fitness, health, focus, productivity and more through daily tasks, challenges, and routines. Important Note: Dawg is not a substitute for professional medical advice, diagnosis, or treatment.
 
   
 
