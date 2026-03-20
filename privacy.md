@@ -78,8 +78,106 @@ When You access the Service by or through a mobile device, We may collect certai
 
 We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
 
+### AI Services, Data Sharing, and User Consent
 
+### Overview
 
+Certain features of the App (including but not limited to AI coaching chat, general self-improvement recommendations via chat and photo, nutrition analysis via photo uploads) rely on third-party artificial intelligence (“AI”) service providers to function. These services process user inputs in order to generate responses, insights, or estimates (e.g., calorie counts).
+
+We are committed to transparency regarding what data is shared, with whom it is shared, and how it is used.
+
+---
+
+### What Data We Send to AI Service Providers
+
+When you use AI-powered features, we may transmit the following categories of data to our AI service providers:
+
+- **User-generated content**
+  - Messages, prompts, or questions submitted through the AI chat feature
+  - Images uploaded for nutrition or food analysis
+- **Contextual data (if applicable)**
+  - Selected preferences, goals, or inputs necessary to generate relevant responses (e.g., fitness goals, dietary preferences)
+- **Technical metadata**
+  - Device type, app version, and request metadata necessary to operate and secure the service
+
+We do **not intentionally transmit**:
+- Sensitive personal identifiers such as full legal name, address, or government-issued IDs
+- Payment information
+- Contacts or unrelated personal data
+
+Users are strongly encouraged **not to submit sensitive personal information** through AI features.
+
+---
+
+### Third-Party AI Service Providers
+
+We currently use the following third-party AI service provider(s):
+
+- **OpenAI (United States)
+
+These providers process data on our behalf to generate AI responses and insights.
+
+We require that all AI service providers:
+- Use data **solely for the purpose of providing the requested service**
+- Implement **appropriate technical and organizational safeguards**
+- Provide a level of data protection **equal to or greater than our own commitments**
+
+---
+
+### How AI Providers Use Data
+
+Data sent to AI providers is used strictly to:
+
+- Generate responses to user prompts
+- Analyze uploaded content (e.g., food images for nutritional estimates)
+- Improve reliability, safety, and performance of the AI systems
+
+We do not permit AI providers to:
+- Sell your personal data
+- Use your data for advertising purposes
+- Build user profiles unrelated to the functionality of the App
+
+Where supported by the provider, we configure services to **limit data retention and training use**.
+
+---
+
+### Data Minimization
+
+We follow data minimization principles and only send:
+- The minimum amount of data necessary to fulfill the specific user request
+- Data relevant to the active feature being used
+
+---
+
+### Data Retention
+
+We retain AI-related data only as long as necessary to:
+- Provide the requested functionality
+- Maintain and improve the App
+- Comply with legal obligations
+
+Third-party providers are contractually required to retain data only as necessary for service delivery.
+
+---
+
+### User Controls
+
+Users may:
+- Stop using AI-powered features at any time
+- Delete content submitted within the App (subject to system limitations)
+- Contact us to request deletion of associated data where applicable
+
+---
+
+### Security
+
+We implement industry-standard security measures to protect data transmitted to and from AI providers, including encryption in transit.
+
+---
+
+### Updates
+
+We may update this section as AI features evolve. Continued use of AI-powered functionality after updates constitutes acceptance of the revised practices.
 
 
 #### Information Collected while Using the Application
